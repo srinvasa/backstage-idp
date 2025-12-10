@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([["5732"],{48031:function(e,p,s){s.d(p,{PullRequestsTable:()=>u.Q});var u=s(31273)}}]);

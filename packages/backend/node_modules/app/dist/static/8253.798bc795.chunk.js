@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([["8253"],{65580:function(a,e,n){n.d(e,{ComplianceCard:()=>t.A,ContributorsCard:()=>r.A,EnvironmentsCard:()=>o.A,LanguagesCard:()=>C.A,MarkdownContent:()=>d.A,ReadMeCard:()=>s.A,ReleasesCard:()=>p.A});var r=n(78141),C=n(83490),s=n(50549),d=n(35839),p=n(52045),t=n(28073),o=n(20181)}}]);
